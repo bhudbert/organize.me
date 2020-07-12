@@ -3,11 +3,11 @@
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 
-<nav class="navbar navbar-expand-lg navbar-dark "  style="background: linear-gradient(#193a53, #192945)">
+<nav class="navbar navbar-expand-lg navbar-dark "  style="background: linear-gradient(#193a53, #2c4d9e)">
   <div class="row w-100">
 	  	<div class="col-lg-2">
 	  		&nbsp;&nbsp;&nbsp;&nbsp;
-	  		<a class="navbar-brand" href="<%=request.getServletContext().getContextPath() %>">Filmotheque</a>
+	  		<a class="navbar-brand" href="<%=request.getServletContext().getContextPath() %>qsds">TeamSpace</a>
 	    </div>
 	    <div class="col-lg-8 text-center">
 	    

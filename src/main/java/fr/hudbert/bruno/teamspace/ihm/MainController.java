@@ -1,4 +1,4 @@
-package fr.bruno.ihm;
+package fr.hudbert.bruno.teamspace.ihm;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

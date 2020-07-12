@@ -10,7 +10,7 @@ xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.sprin
 	<context:annotation-config/>
 	
 	<context:component-scan
-		 base-package="fr.bruno.ihm"
+		 base-package="fr.hudbert.bruno.teamspace.ihm"
 	/>
 	
 	<bean id="viewResolver" class="org.springframework.web.servlet.view.UrlBasedViewResolver">
